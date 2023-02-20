@@ -2,7 +2,7 @@ import telebot
 import datetime
 
 # Задаем токен бота, который вы получили от BotFather
-TOKEN = '6044082161:AAHAWNAmeDtu1MAWXkokD_H-XUNFBK5P1As'
+TOKEN = '6021283271:AAHf99148Uh0qXQ2eweCNFb43ceLw3T6_Ts'
 
 # Создаем объект бота
 bot = telebot.TeleBot(TOKEN)
