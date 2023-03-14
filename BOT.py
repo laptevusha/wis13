@@ -2,7 +2,7 @@ import os
 from flask import Flask, request
 import telegram
 
-TOKEN = ['6186334339:AAH0PNwLuzTMJlHvTEa496HGKDrwp8iMdMQ']
+TOKEN = [6186334339:AAH0PNwLuzTMJlHvTEa496HGKDrwp8iMdMQ]
 bot = telegram.Bot(TOKEN)
 
 app = Flask(__name__)
